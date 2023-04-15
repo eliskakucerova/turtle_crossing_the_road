@@ -1,7 +1,6 @@
 ### Turtle crossing the road
 
-The project is simple game when the turtle is supposed to cross the road and not be hit by the car. 
-When the turtle gets to the finish line, the game is refreshed and the speed of the car increases. 
+The project is a simple game where the player controls a turtle that must cross a road without getting hit by cars. When the turtle reaches the finish line, the game resets and the speed of the cars increases.
   
 The project is written in Python. OOP was used to create three seperated modules with classes: car_manager, scoreboard and player.
 
